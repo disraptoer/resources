@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+amieci = {editable = true, path = "/Users/unga/src/amieci"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
