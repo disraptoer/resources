@@ -8,7 +8,7 @@ jupyter = "*"
 matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
-amieci = {editable = true, path = "/Users/unga/src/amieci"}
+amieci = "*"
 
 [dev-packages]
 
